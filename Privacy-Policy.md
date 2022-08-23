@@ -1,4 +1,4 @@
-#Privacy Policy
+###Privacy Policy
 
 IH Raihan built the PDF Reader app as a Commercial app. This SERVICE is provided by IH Raihan and is intended for use as is.
 
